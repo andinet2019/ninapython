@@ -1,0 +1,5 @@
+myphone= input("Phone:")
+myphone={
+
+    
+}
